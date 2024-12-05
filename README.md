@@ -1,6 +1,5 @@
 # Dria-Node-Setup
 
-https://raw.githubusercontent.com/Edsny1/Dria-Node-Setup/refs/heads/Edsny/script
 
 Prerequisites
 Operating System: Ensure you're running Linux (aarch64 or x86_64 architecture).
